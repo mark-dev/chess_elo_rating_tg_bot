@@ -1,0 +1,5 @@
+python-telegram-bot==20.4
+requests==2.31.0
+pytest==8.3.4
+openpyxl==3.1.5
+elopy==0.1.4
